@@ -27,5 +27,5 @@
 ---
 
 📫 **Conecte-se comigo:**  
-[LinkedIn]([https://www.linkedin.com/in/guid3paula/](https://www.linkedin.com/in/guilherme-augusto-sant%E2%80%99ana-de-paula-13267b71/)  
+[LinkedIn](https://www.linkedin.com/in/guid3paula/](https://www.linkedin.com/in/guilherme-augusto-sant%E2%80%99ana-de-paula-13267b71/)  
 [Instagram](https://www.instagram.com/guid3paula) 
