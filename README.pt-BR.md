@@ -68,7 +68,7 @@ Estou construindo um portfólio baseado em projetos práticos que conectam conte
 
 ### Bancos de Dados & Plataformas
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
